@@ -6,8 +6,26 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+p{
+  background-color: white;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+ul{
+   color-interpolation-filters: sRGB;
+  margin: 6px;
+  padding: 0px;
+}
+ul li{
+  list-style-type: none;
+  margin: 4px;
+  padding: 0px;
+}
+
+a{
+  color: rgb(255, 255, 255);
+}
+
+
