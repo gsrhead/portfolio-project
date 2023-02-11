@@ -3,17 +3,20 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
+import { IconName } from "react-icons/io5";
+import { FaBeer } from 'react-icons/fa';
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
 
     <div>
-      <a
+      <a 
         className="badge-base__link LI-simple-link"
         href="https://www.linkedin.com/in/ioannis-stathopoulos?trk=profile-badge"
       >
-        
+
+
       </a>
     </div>
     <div>
