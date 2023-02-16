@@ -5,7 +5,7 @@ export default function Home(){
             <div>
       <a 
         className="badge-base__link LI-simple-link"
-        href="https://www.linkedin.com/in/ioannis-stathopoulos?trk=profile-badge"
+        href="https://www.linkedin.com/in/ioannis-stathopoulos?trk=profile-badge" // went to linkedin and this started the navabar link to profile..
       >
       </a>
     </div>
@@ -19,7 +19,7 @@ under construction care to buy me <>
           For more information, 
           <a
             class="highlight-link"
-            href="https://resume.io/r/EgTYfxgOE"
+            href="https://resume.io/r/EgTYfxgOE" //* found out in google to do this some where i looked it up..
             target="RESUME"
             rel="noreferrer"
             style={{ color: "yellow", margin:"25px" }}
@@ -31,7 +31,7 @@ under construction care to buy me <>
   src="giphy.gif"
   alt="Your"
   style={{
-    width: "400px",
+    width: "400px", // googled this to search for npm react dom
     height: "200px",
     display: "block",
     margin: "0 auto",

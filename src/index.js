@@ -10,7 +10,8 @@ RouterProvider}
  from 'react-router-dom'
  import Aboutme from "./Aboutme";
  import Projects from "./Projects";
-
+// this is react code and this will enable routing.
+// child elements of root paths for HOME<NAVBAR< ECT. this user will go to each path because it is connected .
 const router= createBrowserRouter([
   {
   path:"/",

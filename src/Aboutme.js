@@ -1,11 +1,11 @@
 import { Link } from 'react-router-dom';
 import Navbar from './Navbar';
-
+// My HEADING in ABOUT ^^^^
 function App() {
   return (
  <div>
   <p>
-          Hello im Ioannis
+          Hello im Ioannis im 32 years old and just started to code
         </p>
       
         <p>

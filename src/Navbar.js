@@ -1,5 +1,4 @@
-// import { IconName } from "react-icons/io5";
-// import { FaBeer } from 'react-icons/fa';
+
 import { Outlet} from 'react-router-dom'
 export default function Navbar(){
 return (
@@ -17,3 +16,4 @@ return (
 )
 }
 
+// my linkedin and navbar heading were created as followed with guid lines to create ..
